@@ -10,7 +10,6 @@ import (
 	"os"
 )
 
-// TODO: ADD MIGRATIONS?, ADD TESTS, CHECK HANDLERS
 func main() {
 	if err := run(); err != nil {
 		fmt.Fprintf(os.Stderr, "%s\n", err)
