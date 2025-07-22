@@ -1,0 +1,4 @@
+internal/handlers/notes/tests/
+config/
+.vscode/
+.mockery.yml
